@@ -12,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iyvone-Wesonga&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyvone-Wesonga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-###  :level_slider:  Framework
+###  :level_slider:  Framework <img align= "right" src="https://github.com/Iyvone-Wesonga/Iyvone-Wesonga/blob/main/GIF.gif">
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ### 	:toolbox:  Languages and tools
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,4 +32,4 @@
 [2]: https://www.instagram.com/_wesongamatuka
 [3]: https://www.twitter.com/_wesonga
 [5]: https://www.github.com/Iyvone-Wesonga
-<img align= "right" src="https://github.com/Iyvone-Wesonga/Iyvone-Wesonga/blob/main/GIF.gif">
+
