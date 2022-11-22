@@ -22,13 +22,9 @@
 
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
 
 
 [2]: https://www.instagram.com/_wesongamatuka
 [3]: https://www.twitter.com/_wesonga
-[4]: https://www.linkedin.com/in/Iyvone Wesonga
 [5]: https://www.github.com/Iyvone-Wesonga
-
