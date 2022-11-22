@@ -26,15 +26,9 @@
 
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
 
-[![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
 
+[2]: https://www.instagram.com/_wesongamatuka
+[3]: https://www.twitter.com/_wesonga
+[4]: https://www.linkedin.com/in/Iyvone Wesonga
+[5]: https://www.github.com/Iyvone-Wesonga
 
-<!-- To Link your profile to the media buttons -->
-
-[1]: https://www.facebook.com/username
-[2]: https://www.instagram.com/username
-[3]: https://www.twitter.com/username
-[4]: https://www.linkedin.com/in/username
-[5]: https://www.github.com/username
-[6]: https://in.pinterest.com/username
-[7]: https://username.tumblr.com
