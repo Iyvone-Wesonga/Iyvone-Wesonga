@@ -1,5 +1,5 @@
 # Hi there, I am Iyvone 	:wave:
-![]
+![](https://github.com/Iyvone-Wesonga/Iyvone-Wesonga/blob/main/Black%20Creative%20Professional%20Photographer%20Online%20Portfolio.png)
 
 :ok_hand: I am currently learning JS frameworks, starting with Angular, which am getting really good at.
 
