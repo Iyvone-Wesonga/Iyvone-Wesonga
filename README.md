@@ -32,3 +32,4 @@
 [2]: https://www.instagram.com/_wesongamatuka
 [3]: https://www.twitter.com/_wesonga
 [5]: https://www.github.com/Iyvone-Wesonga
+<img align= "right" src="https://github.com/Iyvone-Wesonga/Iyvone-Wesonga/blob/main/GIF.gif">
