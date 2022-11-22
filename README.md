@@ -1,9 +1,13 @@
 # Hi there, I am Iyvone 	:wave:
+
+
 :ok_hand: I am currently learning JS frameworks, starting with Angular, which am getting really good at.
 
 :v: I'm looking to collaborate with front end developers, be inspired and create cooler, functional stuff
 
 :anger: Lets code :)
+
+![](https://komarev.com/ghpvc/?username=Iyvone-Wesonga&color=7FFFD4)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iyvone-Wesonga&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyvone-Wesonga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,11 +22,11 @@
  
  ### :speech_balloon: Reach me 
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2] Instagram
 
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3] Twitter
 
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5] Github
 
 
 [2]: https://www.instagram.com/_wesongamatuka
