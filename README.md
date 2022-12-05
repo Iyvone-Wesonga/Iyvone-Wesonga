@@ -1,5 +1,4 @@
 # <p align="center"> Hi there, I am Iyvone 	:wave:</p>
-![](https://github.com/Iyvone-Wesonga/Iyvone-Wesonga/blob/main/Iyvone%20banner.png)
 
 :ok_hand: I am currently learning JS frameworks, starting with Angular, which am getting really good at.
 
@@ -13,8 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyvone-Wesonga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-###  :level_slider:  Framework <img align= "right" src="https://github.com/Iyvone-Wesonga/Iyvone-Wesonga/blob/main/GIF.gif">
-___________________________________
+###  :level_slider:  Framework ___________________________________
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
