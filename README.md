@@ -6,12 +6,6 @@
 
 :anger: Lets code :)
 
-![](https://komarev.com/ghpvc/?username=Iyvone-Wesonga&color=7FFFD4)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iyvone-Wesonga&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iyvone-Wesonga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ###  :level_slider:  Framework ___________________________________
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
