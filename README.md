@@ -30,7 +30,7 @@ Lets code :)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ES6+
 
 
- :computer: <h3>Tools<h3/> 
+ :computer: <h3>TOOLS<h3/> 
  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -59,12 +59,11 @@ Lets code :)
 
 ![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-
 Stripe
 
  
  
- ### :speech_balloon: Reach me
+ ### :speech_balloon: REACH ME
 ___________________________________
 
 
