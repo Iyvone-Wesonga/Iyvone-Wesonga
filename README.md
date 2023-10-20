@@ -2,13 +2,13 @@
 
 <h3>MEET ME<h3/>
 
-<p>I am mainly a front-end developer, using the AngularJs framework, with the goal of sticking to the MEAN stack
+<p>I am mainly a front-end developer, using the AngularJs framework, with the goal of sticking to the MEAN stack </p>
 
 
- I'm looking to collaborate with front-end developers, be inspired create creative, practical and functional stuff
+<p> I'm looking to collaborate with front-end developers, be inspired create creative, practical and functional stuff </p>
  
 
-Lets code :)</p>
+<p>Lets code :) </p>
 
 :level_slider: <h3>TECH STACK <h3/>
 
