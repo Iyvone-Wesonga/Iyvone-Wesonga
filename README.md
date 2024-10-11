@@ -4,9 +4,11 @@
 
 
 <p> I'm looking to collaborate with developers in creating practical solutions, automate systems and make services accessible to everyone.</p>
+
+Connect on LinkedIn below
  
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1] Iyvone Wesonga LinkedIn
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(LinkedIn))][1] 
 
 
 [1]: https://www.linkedin.com/in/iyvone-wesonga
