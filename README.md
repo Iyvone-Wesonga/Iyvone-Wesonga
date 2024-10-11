@@ -3,7 +3,7 @@
 <p>I am a software developer, proficient mainly in the AngularJs framework, working with the MEAN tech stack </p>
 
 
-<p> I'm looking to collaborate with developers in creating practical solutions, automate systems and make services accessible to everyone.</p>
+<p> I'm looking to collaborate with developers in creating practical, relevant software solutions.</p>
 
 Connect on LinkedIn below
  
