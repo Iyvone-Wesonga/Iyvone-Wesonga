@@ -1,6 +1,6 @@
 <h3>MEET ME<h3/>
 
-<p>I am a software developer, proficient mainly in the AngularJs framework, working with the MEAN tech stack </p>
+<p>I am a software developer, working currently with the MEAN tech stack </p>
 
 
 <p> I'm looking to collaborate with developers in creating practical, relevant software solutions.</p>
