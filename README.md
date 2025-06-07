@@ -1,6 +1,6 @@
 <h3>MEET ME<h3/>
 
-<p>I am a software developer, working currently with the MEAN tech stack </p>
+<p>I am a software developer, working with the MEAN tech stack, Flutter and currently learning ML </p>
 
 
 <p> I'm looking to collaborate with developers in creating practical, relevant software solutions.</p>
